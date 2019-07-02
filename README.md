@@ -8,7 +8,7 @@ This is an app that allows one to login and submit pitches, comment and like oth
 #### By **Lugaga Maurice Ngulu**
 
 ## Link to live site
-https://dragons-den.herokuapp.com/
+https://pitches777.herokuapp.com/
 
 
 
